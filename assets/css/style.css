@@ -1,0 +1,89 @@
+.header {
+        margin-bottom: 40px;
+        margin-top: 50px;
+        background-color: mistyrose;
+        padding: 80px;
+        border: 20px;
+        font-size: 10px;
+}
+
+.negrita {
+        color: black;
+        font-weight: bold;
+}
+
+.puntoarroz {
+        color: plum;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 6em;
+        margin-left: 200px;
+        margin-top: 90px;
+}
+
+.aprendecreando {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 3em;
+        margin-left: 260px;
+}
+
+.imagenuno {
+        float: right;
+        height: 300px;
+}
+
+.lanas {
+        border: 80px;
+        margin-left: 10%;
+        padding: 20px;
+}
+
+.Sweet {
+        border: 1px;
+        font-size: 3em;
+        margin-left: 0.9%;
+       
+}
+
+
+.Wool {
+        border: 1px;
+        font-size: 3em;
+        margin-left: 0.9%;
+}
+
+
+.Cotton {
+        border: 1px;
+        font-size: 3em;
+        margin-left: 0.9%;
+}
+
+.texto1 {
+        border: 10%;
+        font-size: 1em;
+        margin: 20px;      
+}
+
+.contenedor {
+        display: flex;
+}
+
+.derecha {
+        display: inline-block;
+        width: 48%;
+}
+
+.izquierda {
+        display: inline-block;
+        width: 48%;
+}
+
+
+.footer {
+        background-color: coral;
+        height: 20px;
+        text-align: center;
+        margin-top: 30px;
+        padding: 18px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
